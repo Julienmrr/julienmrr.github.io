@@ -4,10 +4,14 @@ header {
     color: aliceblue;
 }
 p {
-    background-color: #df5c20;
-    color: #0c8ace;
+    background-color: #ffffff;
+    color: #0919f0;
 }
 h2 {
     background-color: #df2020;
     color: #0cce19;
+}
+h3 {
+    background-color: #ffffff;
+    color: #5b036c;
 }
